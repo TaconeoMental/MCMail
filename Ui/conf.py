@@ -12,6 +12,8 @@ class Ui_primera_vez(object):
     def setupUi(self, primera_vez):
         primera_vez.setObjectName("primera_vez")
         primera_vez.resize(360, 190)
+        primera_vez.setMinimumSize(QtCore.QSize(360, 190))
+        primera_vez.setMaximumSize(QtCore.QSize(360, 190))
         self.Inf = QtWidgets.QPlainTextEdit(primera_vez)
         self.Inf.setGeometry(QtCore.QRect(9, 9, 342, 69))
         font = QtGui.QFont()
@@ -80,4 +82,3 @@ class Ui_primera_vez(object):
         self.pass_tag.setText(_translate("primera_vez", "Contraseña:"))
         self.password.setPlaceholderText(_translate("primera_vez", "Contraseña"))
         self.aceptar.setText(_translate("primera_vez", "Aceptar"))
-

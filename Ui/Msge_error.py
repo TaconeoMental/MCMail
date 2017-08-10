@@ -7,3 +7,5 @@ class Dialogo_error(QDialog, Ui_Msge_error):
 
         self.setupUi(self)
         self.retranslateUi(self)
+        
+        # Agregar función para evento de click en botón "reintentar"      
