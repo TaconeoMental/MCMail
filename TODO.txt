@@ -1,0 +1,7 @@
+TODO:
+- Hacer mensajes de error personalizados con posible solución (Hacer una función base)
+- Arreglar mensaje de error al no poder enviar mail
+- Mantener sesión iniciada sin guardar contraseñas localmente
+- No dejar entrar sin Email
+- Arreglar problemas de format en sistemas UNIX
+- Hacer la ventana de login con tamaño fijo
