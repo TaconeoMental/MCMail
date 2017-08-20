@@ -1,5 +1,9 @@
 # MCMail
 
+![MCMail](https://github.com/TaconeoMental/MCMail/blob/master/Capturas/MCMail.png)
+
+## Descripción
+
 MCMail es un cliente de correo electrónico de escritorio que te permite ingresar con tu cuenta de *Gmail* o *Hotmail* exitente y realizar envío de mensajes desde esta misma. 
 
 Este es un proyecto que realicé con el objetivo de aprender y practicar la creación de interfaces de usuario gráficas con Python y no para ser usada en un escenario real. Hay muchos errores y problemas en la aplicación, asi que si quieres colaborar en la mejora de esta, sigue las instrucciones más abajo.
