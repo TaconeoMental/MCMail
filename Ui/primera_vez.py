@@ -28,3 +28,10 @@ class DialogoPrimeraVez(QDialog, Ui_primera_vez):
             self.msje_error.setText("La dirección de correo o la contraseña no son válidos")
             # self.mail.clear()
             self.password.clear()
+
+
+    def closeEvent(self, event):
+        if self.mail.text().split() != []: 
+            event.accept()
+        else:
+            event.ignore()

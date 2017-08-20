@@ -2,6 +2,7 @@ TODO:
 - Hacer mensajes de error personalizados con posible solución (Hacer una función base)
 - Arreglar mensaje de error al no poder enviar mail
 - Mantener sesión iniciada sin guardar contraseñas localmente
-- No dejar entrar sin Email
 - Arreglar problemas de formato en sistemas UNIX
 - Agregar función para reintentar envío de mail
+- No dejar entrar con mail no verificado
+- Al cerrar ventana de login, cerrar aplicación completa
