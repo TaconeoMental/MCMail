@@ -1,6 +1,6 @@
 # MCMail
 
-![MCMail](https://github.com/TaconeoMental/MCMail/blob/master/Capturas/MCMail.png)
+![MCMail](https://github.com/TaconeoMental/MCMail/blob/master/Capturas/MCMail.PNG)
 
 ## Descripción
 
