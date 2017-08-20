@@ -27,7 +27,7 @@ OS X & GNU/Linux:
 
 ```sh
 git clone https://github.com/TaconeoMental/MCMail.git # Descarga la última revisión
-cd MCmail # Cambiar al directorio de la aplicación
+cd MCMail # Cambiar al directorio de la aplicación
 sudo python3 -m pip install -r requirements.txt # Instalar las dependencias necesarias
 ```
 
@@ -35,7 +35,7 @@ Windows:
 
 ```sh
 git clone https://github.com/TaconeoMental/MCMail.git # Descarga la última revisión
-cd MCmail # Cambiar al directorio de la aplicación
+cd MCMail # Cambiar al directorio de la aplicación
 python -m pip install -r requirements.txt # Instalar las dependencias necesarias
 ```
 
